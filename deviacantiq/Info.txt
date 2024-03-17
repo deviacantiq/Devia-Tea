@@ -1,0 +1,2 @@
+this is information 
+for testnet purpose only
